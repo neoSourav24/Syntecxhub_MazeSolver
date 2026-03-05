@@ -6,7 +6,7 @@ Maze Solver using A* Search
 This project is a Python-based implementation of the **A* Search Algorithm** to solve a grid-based maze. It models the environment as nodes, utilizes heuristics for efficiency, and handles unreachable scenarios gracefully.
 
 
-## 📋 Project Requirements Addressed
+## 📋 Project Requirements 
 As per the project guidelines:
 * **Node Modeling**: Represents a maze/grid consisting of a start point, a goal, and walls modeled as searchable nodes.
 * **A* Implementation**: Utilizes the A* search algorithm combined with a heuristic.
